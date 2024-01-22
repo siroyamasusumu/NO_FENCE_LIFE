@@ -1,24 +1,26 @@
-# README
+# 東京在住の障害者に向けたおでかけサイト「NO FENCE LIFE」
+<img width="1512" alt="toppage" src="https://github.com/siroyamasusumu/NO_FENCE_LIFE/assets/134294714/a9f0ef42-2cf4-40b0-86a9-abde745124ec">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サービス概要
+　２００５年に障害者自立支援法（２０１２年に障害者総合支援法に改称）が制定され、社会的に障害者でも安心して生活できる社会が求められている。
+　実際、駅でもエレベーターやスロープなどを整備するようになり、バリアフリーへの取り組みがなされている。
+　しかしながら、そういった設備や障害者割引などを総合的にまとめたサイトがなく、不便な現状を障害を持った友人から言われ、何とかしたいと思い、サイトを制作しました。
 
-Things you may want to cover:
+## ペルソナ
+名前　山田太郎
+年齢　２３歳
+障害　失語症（身体障害者４級）
+職業　清掃業
+趣味　散歩
+住所　東京都新宿区
 
-* Ruby version
+・清掃の仕事も慣れ、気持ちに余裕が出るようになった。平日は職場と自宅との往復だけだが、休日は自宅の徒歩圏内で歩いている。しかしながら、自宅周辺だけだとどうしてもいつもの道しか歩かず、飽きていた。本当は鉄道を使って色々出かけたいが、金銭的に稼げる仕事ではなく、また障害者に考慮した情報サイトもなく躊躇していた。
 
-* System dependencies
+・そんな時「NO FENCE LIFE」というサイトを見つけた。地図上のピンをクリックすると、障害者割引を行なっていたり、障害者に配慮した設備（多目的トイレや筆談器）がある事を知り、次の休日は遠くへ出かけようと思った。
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 機能
+・ユーザー登録機能
+・ログイン＆ログアウト機能（ゲストログイン）
+・施設検索機能（ワード検索＆区分検索＆地図検索）
+・施設概要（住所・紹介・料金）
+・口コミ機能
