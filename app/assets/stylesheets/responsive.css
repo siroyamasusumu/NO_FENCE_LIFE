@@ -1,0 +1,25 @@
+/* 1080px以下 */
+@media all and (max-width: 1080px) {
+  .title {
+    font-size: 28px;
+  }
+
+  .maps {
+    width: 700px;
+    height: 400px;
+  }
+}
+
+/* 768px以下 */
+@media all and (max-width: 768px) {
+  .title {
+    display: flex;
+    font-size: 22px;
+    align-items: center;
+  }
+
+  .maps {
+    width: 600px;
+    height: 300px;
+  }
+}
