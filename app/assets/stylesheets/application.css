@@ -16,6 +16,10 @@ header {
   padding-top: 17px;
 }
 
+.menu-list {
+  padding-left: 3px;
+}
+
 /* メインコンテンツ */
 main {
   text-align: center;
