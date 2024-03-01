@@ -1,5 +1,6 @@
 # 東京在住の障害者に向けたおでかけサイト「NO FENCE LIFE」
 <img width="1512" alt="toppage" src="https://github.com/siroyamasusumu/NO_FENCE_LIFE/assets/134294714/a9f0ef42-2cf4-40b0-86a9-abde745124ec">
+<a href="http://nofencelifetest.s3-website-ap-northeast-1.amazonaws.com/">ホームページ製作中</a>
 
 ## サービス概要
 　２００５年に障害者自立支援法（２０１２年に障害者総合支援法に改称）が制定され、社会的に障害者でも安心して生活できる社会が求められている。
